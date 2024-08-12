@@ -46,6 +46,7 @@ This landing page was built using the following technologies:
 ## About us
 
 We build free and premium themes with technologies such as Bootstrap, React, Tailwind, Vue, Laravel and more over at [Themesberg](https://themesberg.com).
+Testing customer's issues this this open project. BTW you guys do a good job.
 
 ## License
 
